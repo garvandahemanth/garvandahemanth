@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **machine learning and deeplearning**
 
-- 👯 I’m looking to collaborate on **open source project**
+-  I’m looking to collaborate on **open source project**
 
 - 📫 How to reach me **garvandahemanth12@gmail.com**
 
